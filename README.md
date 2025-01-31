@@ -1,0 +1,2 @@
+# Mini
+Disease Prediction
